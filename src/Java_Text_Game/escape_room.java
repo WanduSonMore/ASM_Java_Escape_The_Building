@@ -27,7 +27,7 @@ public class escape_room {
                     cuff_key.key = true;
                 } else if (choosing.static_options.toLowerCase().equals("bottom")) {
                     System.out.println("It looks like there is something under the bed, " +
-                            "but because you are hand cuffed you can reach it." +
+                            "but because you are hand cuffed you can\'t reach it." +
                             " You should look are for something to get the hand cuffs off.");
                 }else if (choosing.static_options.toLowerCase().equals("back")) {
                     return true;
