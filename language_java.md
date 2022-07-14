@@ -15,6 +15,6 @@ I used the IntelliJ coding software system to code my Java language and the webs
 
 # Useful Websites
 * (https://www.w3schools.com/java/default.asp
-\
+
 # Future Work
 * I never really got the chance to go further into the tutorial and would like to learn more eventually.
