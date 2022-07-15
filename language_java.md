@@ -6,6 +6,7 @@ The software I created was a series of different sample codes that where provide
 * Loops
 * Functions
 * Classes
+
 The reason I wrote this softwar is because I wanted to learn the basics of programming with Java. Most of my time I have learn only Python in my classes at BYU Idaho and I thought it would be a good idea to learn some new programming languages as well.
 
 [Software Demo Video](http://youtube.link.goes.here)
